@@ -1,0 +1,92 @@
+*{
+	margin: 0; padding: 0;
+}
+.mean{
+	height: 50px; background-color: grey;
+}
+#logo{
+	float: left;
+	margin-left: 40px;
+	margin-top: 10px;
+	width: 50px;
+}
+.container{
+	padding: 20px;
+	background-color:#ddd;
+}
+.head{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 1px 1px 1px #888;
+	margin-bottom: 20px;
+}
+.list{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 1px 1px 1px #888;
+	margin-bottom: 20px;
+}
+.list table{
+	border: 1px solid white;
+	border-spacing: 0;
+	width: 100%;
+}
+.list tr th{
+	background-color: black;
+	border: 1px solid #dcdcdc;
+	color: white;
+}
+.list tr td{
+	border: 1px solid #dcdcdc;
+}
+#sidebar h2{
+	margin-left: 20px;
+	text-align: left;
+	font-family: "Microsoft Yahei";
+	line-height: 4opx;
+	font-size: 18px;
+	font-weight: 600;
+	border-left: 3px solid #dcdcdc;
+}
+#sidebar .int{
+	display: block; 
+	margin:20px;
+}
+#sidebar .int p{
+	float: left;
+	width: 50%;
+	text-align: right;
+	display: inline-block;
+    vertical-align: top;
+}
+
+#sidebar .int input{
+ 	margin-left: 10px;
+}
+
+.int select{
+	display: inline-block;
+	margin-left:10px;
+}
+.int textarea{
+	display: inline-block;
+}
+#sub{
+	color: white;
+	font-size: 15px;
+	background-color: #3355d0;
+	text-align: center;
+	border-radius: 10px;
+	width: 100%;
+	height: 40px;
+}
+#sidebar{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 1px 1px 1px #888;
+	margin-bottom: 20px;
+}
+
