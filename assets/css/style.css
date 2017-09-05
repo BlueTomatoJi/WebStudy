@@ -1,0 +1,11 @@
+.item{
+    border: 1px solid #f0f0f0;
+    border-radius: 50%;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    margin: 20px;
+    cursor: pointer;
+    outline: 0 none;
+}
