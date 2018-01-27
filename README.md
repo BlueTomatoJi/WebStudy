@@ -1,2 +1,2 @@
 # WebStudy
-learn web as newer
+learn web as a newer
